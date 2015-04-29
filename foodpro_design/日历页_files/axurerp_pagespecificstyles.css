@@ -1,0 +1,102 @@
+﻿body {
+    margin: 0px;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:720px;
+    height:1280px;
+}
+
+#u0_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:720px;
+    height:1280px;
+}
+
+.u1 {
+    position:absolute;
+    left:2px;
+    top:632px;
+    width:716px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u2_normal {
+    background-image: url('../日历页_files/u2_normal.png');
+}
+
+.u2_container {
+    position:absolute;
+    left:224px;
+    top:1135px;
+    width:240px;
+    height:129px;
+}
+
+#u2_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:246px;
+    height:135px;
+}
+
+.u3 {
+    position:absolute;
+    left:2px;
+    top:56px;
+    width:236px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u4 {
+    position:absolute;
+    left:292px;
+    top:1179px;
+    width:103px;
+    height:41px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
